@@ -4,14 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-<<<<<<< HEAD
-    <ProjectGuid>{B6E94510-F8BA-4F58-B01F-0557AA247965}</ProjectGuid>
-=======
-    <ProjectGuid>{5134B26E-CCFD-4400-A5A6-00D710C2305C}</ProjectGuid>
->>>>>>> UC1_FlipCoin
+    <ProjectGuid>{8C4CBABA-E866-4560-A39A-8F690B5ADA51}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FlipCoin</RootNamespace>
-    <AssemblyName>FlipCoin</AssemblyName>
+    <RootNamespace>LeapYear</RootNamespace>
+    <AssemblyName>LeapYear</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

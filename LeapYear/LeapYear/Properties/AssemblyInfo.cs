@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FlipCoin")]
+[assembly: AssemblyTitle("LeapYear")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FlipCoin")]
+[assembly: AssemblyProduct("LeapYear")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-<<<<<<< HEAD
-[assembly: Guid("b6e94510-f8ba-4f58-b01f-0557aa247965")]
-=======
-[assembly: Guid("5134b26e-ccfd-4400-a5a6-00d710c2305c")]
->>>>>>> UC1_FlipCoin
+[assembly: Guid("8c4cbaba-e866-4560-a39a-8f690b5ada51")]
 
 // Version information for an assembly consists of the following four values:
 //

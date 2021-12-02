@@ -6,11 +6,19 @@ using System.Threading.Tasks;
 
 namespace FlipCoin
 {
+<<<<<<< HEAD
     internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Let's flip a coin 10000 times");
+=======
+      class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Let's flip a coin 100 times");
+>>>>>>> UC1_FlipCoin
             Coinflip();
         }
 
@@ -25,7 +33,11 @@ namespace FlipCoin
             int result = 0;
 
 
+<<<<<<< HEAD
             for (int i = 0; i < 10000; i++)
+=======
+            for (int i = 0; i < 100; i++)
+>>>>>>> UC1_FlipCoin
             {
                 result = Rand.Next(0, 2);
 
