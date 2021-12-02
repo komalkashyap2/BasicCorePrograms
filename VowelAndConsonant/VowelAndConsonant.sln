@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelAndConsonant", "VowelAndConsonant\VowelAndConsonant.csproj", "{CD5EBAEE-7D9C-4693-A26C-B5EC01104A72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelAndConsonant", "VowelAndConsonant\VowelAndConsonant.csproj", "{B82CADBC-2C61-431F-80E8-89B1AD0849D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CD5EBAEE-7D9C-4693-A26C-B5EC01104A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD5EBAEE-7D9C-4693-A26C-B5EC01104A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD5EBAEE-7D9C-4693-A26C-B5EC01104A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD5EBAEE-7D9C-4693-A26C-B5EC01104A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82CADBC-2C61-431F-80E8-89B1AD0849D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82CADBC-2C61-431F-80E8-89B1AD0849D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82CADBC-2C61-431F-80E8-89B1AD0849D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82CADBC-2C61-431F-80E8-89B1AD0849D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {59DD8083-48A5-4169-9FE5-9415871351BA}
+		SolutionGuid = {866B8544-40BF-4D8B-8963-B8D172008C80}
 	EndGlobalSection
 EndGlobal

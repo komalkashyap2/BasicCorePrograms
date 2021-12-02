@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD5EBAEE-7D9C-4693-A26C-B5EC01104A72}</ProjectGuid>
+    <ProjectGuid>{B82CADBC-2C61-431F-80E8-89B1AD0849D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>VowelAndConsonant</RootNamespace>
     <AssemblyName>VowelAndConsonant</AssemblyName>
